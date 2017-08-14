@@ -61,3 +61,7 @@
   7.去到码云的项目设置，找到webhook，填上访问脚本的url，填上密码
   
   8.配置脚本目录的Config.php，其中的Secret相当于码云webhook中的password(coding中的token)
+  
+## 备注
+
+  目前只支持Push操作
